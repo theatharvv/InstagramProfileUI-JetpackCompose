@@ -21,9 +21,11 @@ This is a **UI clone only**, designed for educational and prototyping purposes.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
->  ![Login Page](./Screenshot.jpg)
+> <img src="https://github.com/user-attachments/assets/dd2b9c26-ea6e-4e8e-8bb5-79d9f49fbfd0" alt="fullscreen" width="350"/>
+
+
 ---
 
 
